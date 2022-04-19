@@ -1,4 +1,4 @@
-Variablse = Son espacios en la memoria principal del ordenador, que tienen un nombre identificador, que esta asociado a esos espacios, para luego poder
+Variables = Son espacios en la memoria principal del ordenador, que tienen un nombre identificador, que esta asociado a esos espacios, para luego poder
 acceder dentro de los mismos y asignarle valores.
 
 Strings = Son cadenas de carácteres, de forma que el usuario pueda introducir palabras completas y no solo un carácter.
