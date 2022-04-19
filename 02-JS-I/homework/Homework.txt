@@ -1,0 +1,19 @@
+Variablse = Son espacios en la memoria principal del ordenador, que tienen un nombre identificador, que esta asociado a esos espacios, para luego poder
+acceder dentro de los mismos y asignarle valores.
+
+Strings = Son cadenas de carácteres, de forma que el usuario pueda introducir palabras completas y no solo un carácter.
+
+Funciones = Son secciones de un programa, que calculan un valor de forma independiente al resto del programa.
+Nos permiten ejecutar codigo y reusarlo cuantas veces queramos.
+Los Argumentos son como variables que se declaran dentro de la funcion, y toman un valor cuando se invoca la funcion. Si son mas de un argumento, se separan por comas
+(,).
+"return" es una instruccion, que devuelve un valor de la funcion ejecutada, y devuelve el control a la funcion de llamada.
+
+Declaraciones = Son instrucciones donde se introducen o asignan variables nuevas, los tipos de datos de esas variables y sus valores.
+"if" es un tipo de declaracion que toma decisiones dependiendo condiciones especificas. Devuelve un resultado verdadero si se cumple una condicion especificada, o uno
+falso si no se cumple.
+
+Valores Booleanos = Es un tipo de datos que solo pueden tener dos valores, ya que representan un valor de logica binaria, por lo general se muestran como verdadero
+(true) o falso (false). Verdadero si se ejecuta bajo una condicion especificada, falso si no.
+
+
