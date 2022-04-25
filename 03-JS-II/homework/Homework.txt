@@ -1,0 +1,13 @@
+El bucle 'for' es similar a la instruccion 'if' pero un poco mas compleja. se usa cuando se quiere repetir un conjunto de instrucciones un numero limitado de veces.
+Primero esta la palabra clave 'for', seguida de parentesis y luego abrir y cerrar
+llaves. Dentro de los parentesis se debe declarar una variable, que es sobre lo que se repite el bucle. Despues una expresion condicional, en la que el ciclo seguira
+sucediendo hasta que esa declaracion sea 'false'. Por ultimo se incrementa la variable. Las tres declaraciones se separan por punto y coma.
+
+
+El operador "Y" ("AND"), escrito como ( && ), es un operador logico que evalua dos expresiones de igualdad y devuelve verdadero ('true') si ambas expresiones son 'true'. 
+Si uno, o ambos, de ellos es falso, este operador devolvera 'false'
+
+El operador "Ó" ("OR"), escrito como ( || ), determinara si una de las expresiones de igualdad es true, y devuelve 'true' si una, o ambas, de las expresiones es 'true'.
+Si ambas expresiones son 'false' devolvera 'false'.
+
+El operador "NO" ("NOT"), escrito como ( ! ) devolvera el valor booleano opuesto del que se le pasa.
