@@ -1,0 +1,25 @@
+Los Arrays (Arreglos o Matrices) son una lista de elementos, que pueden ser cualquier tipo de datos entre numeros, strings, booleanos, 'null', 'undefined', funciones, y hasta otro
+arreglo dentro.
+Los arrays se definen utilizando los brackets (corchetes), los elementos se escriben dentro de los brackets. Para acceder a esos elementos, se utiliza un indice,
+que es la posicion numerica de cada elemento dentro del array, dentro de los brackets.El orden numerica de un array siempre empieza en 0, por lo tanto el primer elemento
+esta en el indice 0, el segundo en el 1, el tercero en el 2, y asi sucesivamente.
+
+Para acceder al primer elemento dentro del array se escribiria el nombre o variable del array seguido de corchetes que contengan la asignacion numerica.
+Cuando se invoca a un elemento dentro del arreglo, este se convierte en ese elemento.
+Supongamos que en la posicion 2 tenemos una funcion, si invocamos array[2], estamos llamando a esa funcion y se la puede modificar.
+
+Para saber cuantos elementos tiene un array, se utiliza el metodo .length, y cuando no se sabe el numero de elemento de un arreglo se usaria el nombre o variacion del
+array .length - 1 entre corchetes: [array.length -1] 
+
+Se le puede asignar o reasignar cualquier indice al array usando "[]" y un "="
+
+Otros metodos incorporados son .push y .pop, que se refieren a la adicion y eliminacion de elementos del array luego de su declaracion inicial.
+.push agrega un elemento al final del array, incrementando su longitud en 1.
+.pop elimina el ultimo elemento del arreglo, disminuyendo su longitud en 1.
+
+Tambien estan el .unshift y .shift, que son como el .push y .pop, pero operan en el primer elemento del array. .unshift () agregara un nuevo elemento en la primer posicion
+del arreglo, y shift() eliminara el primer elemento del arreglo.
+
+
+Los bucles for se usan para repetir todos los elementos de un array. Usando la tecnica de acceso al indice, se puede acceder a cada elemento del arreglo. Para hacer esto
+se usa el metodo .length como punto de parada para el ciclo.
