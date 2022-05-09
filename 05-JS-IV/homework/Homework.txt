@@ -1,0 +1,19 @@
+Los Objetos son contenedores de datos, al igual que los array, pero mientras los array contienen multiples elementos relacionados entre si, los objetos contienen mucha
+informacion sobre una sola cosa.
+Los objetos usan un concepto llamado pares de clave:valor. La clave (key) es el identificador, y el valor (value) es el valor que se quiere guardar en esa clave.
+
+Las Propiedades son valores asociados a un objeto, y por lo general se pueden cambiar, añadir y borrar.
+
+Los Metodos son funciones guardadas en un objeto. Se puede establecer una clave para un nombre y el valor para una funcion. Podemos llamar al metodo usando notacion
+de puntos y parentesis finales, o bien con argumentos, como hariamos en una funcion normal.
+
+Los Bucle for... in son un tipo de bucle integrado de JavaScript, que se usan para los objetos, ya que como no tienen indice numerico, los bucles estandar no funcionan,
+en ellos. Tienen una sintaxis ligeramente distinta a un bucle normal, comienzan igual a los bucles estandar, pero entre parentesis declaramos una variable, la palabra
+clave ( in ), y el nombre del objeto. Esto va a recorrer cada clave del objeto y terminara cuando se hayan repetido todas las claves. Podemos usar esta clave, y la 
+notacion de corchetes, en nuestro bucle ( for ) para acceder al valor asociado con esa clave.
+
+Hay dos formas de acceder a las propiedades de un objeto:
+La primera es la notacion de corchetes, es muy similar a la de los arrays, se escribe el nombre del objeto, los corchetes y adentro el nombre de la propiedad entre
+comillas. Permite acceder a propiedades con caracteres especiales y a la seleccion de propiedades mediante variantes.
+La otra forma es la notacion de puntos, es mas rapida de escribir y mas clara de leer, se escribe el nombre del objeto, punto ( . ) y el nombre de la propiedad, pero
+es literal, o sea, no se le puede poner variables.
