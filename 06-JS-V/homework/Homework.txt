@@ -1,0 +1,12 @@
+Un constructor o clase es una plantilla para crear objetos de datos siguiendo un modelo predefinido. Comparten gran parte de la misma funcionalidad que los objetos
+normales, y tambien se expanden en esa funcionalidad. Se usan para representar entidades y conceptos, como los sustantivos en el lenguaje, y son muy utiles para crear
+muchos objetos que compartan algunas de las mismas propiedades y metodos. 
+
+Todos los objetos en JavaScript tienen una referencia a otro objeto que es llamado prototype. Es una propiedad que representa el prototipo de cada objeto.
+Cuando se agrega un metodo a un objeto a travez de su prototipo, todos los demas objetos lo heredan tambien. Como herencia se refiere a la capacidad de un constructor
+(o clase) de heredar propiedades y metodos de otro constructor.
+El prototipo (prototype) es una forma de establecer un metodo en una clase una sola vez y dar acceso a cada objeto de esa clase a esos metodos, ya que la creacion de
+funciones ocupa espacio en la memoria de la computadora, y cada vez que se crea un nuevo objeto de clase con metodos, se estan recreando esos metodos en la memoria.
+Cada clase tiene una propiedad prototipo, que luego se puede establecer en metodos.
+El metodo 'create' de los objetos permite crear un nuevo objeto a partir de un prototype especificado.
+El metodo 'assign' permite agregar propiedades a un objeto pasado por parametro.
