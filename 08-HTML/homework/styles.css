@@ -1,0 +1,36 @@
+h1 {
+    color: yellow;
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 400px
+}
+h3 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+h4 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#thirdDiv {
+    height: 500px;
+    width: 600px;
+    background-color: red;
+    padding: 50px;
+    border: 5px dashed yellow;
+    display: flex;
+    justify-content: center;
+}
+
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+    color: white;
+}
+body {
+    background-image: url("https://3.bp.blogspot.com/-0VWYgbY1EbM/Vh3HIB5aEmI/AAAAAAAAJSo/foqtjQ285wQ/s1600/music%2Bwallpaper%2B10.jpg");
+}
