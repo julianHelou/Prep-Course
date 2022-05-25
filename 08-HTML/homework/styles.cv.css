@@ -1,0 +1,27 @@
+#firstDiv {
+
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: grey;
+    font-size: 25;
+
+}
+
+#Descripcion {
+    background-color: grey;
+    font-size: 22;
+}
+
+#divClass {
+    background-color: grey;
+    font-size: 19;
+}
+
+
+img {
+    padding: 10px;
+    border: 50px black;
+    background-color: black;
+}
+
